@@ -1,69 +1,60 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=¡Hola,%20soy%20[TuNombre]!%20🚀&fontSize=60&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00e676&height=250&section=header&text=CRISTIAN%20|%20Executive%20&%20Dev&fontSize=60&animation=fadeIn&fontAlignY=40" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+training;Especialista+en+React+y+Next.js;Aprendiendo+el+poder+de+Go+y+Rust+🦀)]()
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Cofundador+y+Presidente+Ejecutivo+de+HiveYoung;Building+the+future+with+Code+;Liderando+equipos+de+alto+rendimiento;Especialista+en+React,+Node+y+Next.js)]()
 </div>
 
 ---
 
-### ⚡ Sobre mí
-- 🔭 **Enfoque actual:** Perfeccionando el despliegue de aplicaciones escalables.
-- 🦀 **Reto 2024:** Dominando la gestión de memoria en **Rust** y la concurrencia en **Go**.
-- 🛠️ **Filosofía:** "El código limpio no es el que se escribe rápido, sino el que se lee fácil".
+### 🏛️ Perfil Ejecutivo & Visión
+> "When something is important enough, you do it even if the odds are not in your favor." — **Elon Musk**
+
+Soy **Cristian**, emprendedor tecnológico con foco en la creación de productos escalables y la gestión de talento. Como **Presidente Ejecutivo de HiveYoung**, combino la visión estratégica de negocio con la ejecución técnica. Actualmente volcado en proyectos personales que desafían los límites de la tecnología moderna.
+
+- 💼 **Gestión:** Liderazgo de equipos, metodologías ágiles y estrategia de producto.
+- 🚀 **Enfoque:** Construyendo soluciones robustas con **React**, **Next.js** y **Node.js**.
+- 🦀 **R&D:** Explorando **Go** y **Rust** para infraestructuras de alto rendimiento.
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### 🛠️ Strategic Tech Stack
 
-#### 💻 Frontend & Backend (Dominados)
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-
-#### 🧪 Explorando nuevos horizontes (En progreso)
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+| Área | Tecnologías |
+| :--- | :--- |
+| **Frontend Architecture** | `React` `Next.js` `TypeScript` `TailwindCSS` |
+| **Backend & Scalability** | `Node.js` `Express` `PostgreSQL` |
+| **Next Frontier** | `Go` `Rust` `WebAssembly` |
+| **DevOps & Tools** | `Git` `Docker` `GitHub Actions` |
 
 ---
 
-### 📊 GitHub Analytics (El laboratorio)
+### 📈 Business & Code Metrics
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=emerald-green&include_all_commits=true&count_private=true&border_radius=10" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&langs_count=8&theme=emerald-green&border_radius=10" />
       </td>
     </tr>
   </table>
 
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO]&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO]&theme=emerald-green&hide_border=true" />
 </div>
 
 ---
 
-### 🌌 Snake Game (Mi actividad en código)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[TU_USUARIO]/[TU_USUARIO]/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[TU_USUARIO]/[TU_USUARIO]/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[TU_USUARIO]/[TU_USUARIO]/output/github-contribution-grid-snake.svg">
-</picture>
+### 🤝 Networking & Contacto
+<p align="left">
+<a href="https://linkedin.com/in/[TU_LINKEDIN]" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:[TU_EMAIL]" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://hiveyoung.com" target="blank"><img src="https://img.shields.io/badge/HiveYoung-000000?style=for-the-badge&logo=hive&logoColor=00E676" /></a>
+</p>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[TU_USUARIO]&label=Profile%20Views&color=ace12e&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=[TU_USUARIO]&label=Executive%20Profile%20Views&color=00e676&style=flat-square" alt="Views" />
 </p>
