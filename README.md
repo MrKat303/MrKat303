@@ -10,7 +10,6 @@ Soy Cristian, emprendedor tecnológico con foco en la creación de productos esc
 
 # 🚀 Learning Frontier:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-*Actualmente profundizando en sistemas de alto rendimiento y concurrencia.*
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MrKat303&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
